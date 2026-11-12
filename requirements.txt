@@ -1,8 +1,8 @@
    streamlit
    opencv-python-headless
-   numpy==<versi lokalmu>
+   numpy
    pandas
    matplotlib
    seaborn
    Pillow
-   tensorflow==<versi lokalmu>
+   tensorflow-cpu
